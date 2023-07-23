@@ -1,0 +1,265 @@
+@media only screen and (min-width:768px) and (max-width:992px) {
+    
+    .container{width:768px}
+
+    .phone {
+        width: 25%;
+        font-size: 15px;
+        float: left;
+    }
+    
+    .email {
+        width: 45%;
+        font-size: 15px;
+        float: left;
+    }
+    
+    .social {
+        width: 24%;
+        float: right;
+        font-size: 15px;
+    }
+    
+    .menu {
+        width: 74%;
+    }
+    
+    ul.mainMenuItem li a {
+        font-size: 15px;
+        padding: 25px 10px;
+        display: inline-block;
+    }
+    
+    .logo {
+        width: 20%;
+        float: left;
+        margin-top: 15px;
+    }
+
+    .singleBox {
+        width: 41%;
+        margin-bottom: 30px;
+        margin-right: 30px;
+    }
+    
+    .teamImage {
+    width: 80%;
+    margin-left: 55px;
+    margin-bottom: 20px;
+}
+
+.teamDetailes {
+    width: 85%;
+}
+    
+.singleIcon {
+    width: 20%;
+    margin-right: 40px;
+}
+
+.singleIcon h2 {
+    font-size: 35px;
+}
+
+.singleIcon h4 {
+    font-size: 16px;
+}
+
+.sIcon i {
+    font-size: 35px;
+}
+.secTitle {
+    width: 100%;
+}
+
+.singlePost {
+    width: 44%;
+    margin-bottom: 35px;
+    margin-right: 45px;
+}
+.singleTable {
+    width: 210px;
+    padding: 10px;
+    margin-right: 15px;
+    font-size: 13px;
+}
+
+.rightContentTitle {
+    padding: 28px;
+    margin-bottom: 20px;
+}
+
+.rightContentTitle h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.rightContentTitle p {
+    text-align: center;
+    font-size: 15px;
+}
+
+.rContentIcons {
+    padding: 0px 25px;
+}
+
+.riconSingle {
+    width: 50%;
+    margin-bottom: 35px;
+    overflow: initial;
+}
+
+.rIcon {
+    font-size: 35px;
+}
+
+.riconTitle {
+    width: 65%;
+    font-size: 14px;
+}
+.singlePerson {
+    width: 45%;
+    margin-bottom: 33px;
+}
+
+.joinTeamButton {
+    margin-top: 40px;
+}
+.singleProject {
+    width: 87%;
+}
+
+.projectMeta {
+    width: 200px;
+}
+
+.projectMeta h3 {
+    font-size: 16px;
+    margin-left: -6px;
+}
+
+.projectMeta a {
+    font-size: 14px;
+}
+
+a#learnMoreBtn {
+    font-size: 14px;
+}
+.singleNews {
+    width: 30%;
+    margin-right: 15px;
+}
+
+.newsMeta {
+    padding: 15px;
+}
+
+.newsCategory a {
+    font-size: 14px;
+    width: 90px;
+}
+
+.newsCategory:after {
+    content: "";
+    left: 85px;
+    width: 15px;
+}
+
+.newsTitle h2 {
+    font-size: 19px;
+}
+
+.newsTitle p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+a#newsReadMore {
+    font-size: 14px;
+}
+
+.subsBoxSingle {
+    width: 30%;
+    padding: 15px 0px;
+    padding-left: 15px;
+}
+
+.subsBoxSingle h2 {
+    font-size: 20px;
+}
+
+.inputboxes input:first-child {
+    width: 55%;
+    padding: 12px;
+    font-size: 12px;
+}
+
+input#subsSubmit {
+    padding: 12px;
+    font-size: 12px;
+    width: 110px;
+    right: 5px;
+}
+
+.subsBoxSingle p {
+    font-size: 13px;
+    width: 255px;
+}
+
+.subsFollowIcons a {
+    font-size: 14px;
+    width: 25px;
+    height: 25px;
+}
+
+.subsBoxSingle:nth-child(2) {
+    width: 33%;
+}
+
+.subsBoxesWrapper {
+    width: 718px;
+}
+
+.copyrightText {
+    width: 50%;
+    font-size: 14px;
+}
+
+.copyrightMenu {
+    width: 45%;
+    font-size: 14px;
+    float: left;
+}
+
+.fbox {
+    width: 40%;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+@media only screen and (max-width:575px) and (min-width:768px){
+
+
+
+
+}
+
+@media (max-width:575px) {
+    
+
+
+
+
+}
+
